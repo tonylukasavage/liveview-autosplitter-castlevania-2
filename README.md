@@ -1,6 +1,6 @@
 # liveview-autosplitter-castlevania-2
 
-![Imgur](https://i.imgur.com/0ioi86i.jpg)
+![gif](https://j.gifs.com/NLDJgz.gif)
 
 A [Livesplit](http://livesplit.org/) autosplitter for "Castlevania II: Simon's Quest". 
 
