@@ -12,8 +12,8 @@ Please report bugs, questiopns, features, or additional emulator support in the 
 
 ## usage
 
-1. Download the [cv2.asl]() autosplitter file to your computer
-1. Open Livesplit with your Castlevania 2 splits or the [example split]() in this repo
+1. Download the [cv2.asl](https://raw.githubusercontent.com/tonylukasavage/liveview-autosplitter-castlevania-2/master/cv2.asl) autosplitter file to your computer
+1. Open Livesplit with your Castlevania 2 splits or the [example split](https://raw.githubusercontent.com/tonylukasavage/liveview-autosplitter-castlevania-2/master/cv2-example-splits.lss) in this repo
 2. Right-click Livesplit and select **Edit Layout...**
 3. In the Layout Editor, click the **+** on the left and select **Control -> Scriptable Auto Splitter**
 4. Double-click the **Scriptable Auto Splitter** you just created
