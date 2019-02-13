@@ -2,9 +2,9 @@
 
 ![gif](https://j.gifs.com/NLDJgz.gif)
 
-A [Livesplit](http://livesplit.org/) autosplitter for "Castlevania II: Simon's Quest". 
+A [Livesplit](http://livesplit.org/) autosplitter for "Castlevania II: Simon's Quest".
 
-Please report bugs, questiopns, features, or additional emulator support in the [repo issues](https://github.com/tonylukasavage/liveview-autosplitter-castlevania-2/issues).
+Please report bugs, questions, features, or additional emulator support in the [repo issues](https://github.com/tonylukasavage/liveview-autosplitter-castlevania-2/issues).
 
 ## emulators supported
 
